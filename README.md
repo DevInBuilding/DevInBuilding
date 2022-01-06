@@ -1,7 +1,9 @@
-### 😃 Olá! Eu me chamo Lucas, e você?
+### 😃 Hello there! I'm Lucas and welcome to my GitHub profile.
 
-- Graduando em Sistemas de Informação 🎓
-- Atualmente estudando JavaScript e NodeJS 💻
+- I'm an undergraduate student in Information Systems 🎓
+- I currently study JavaScript e NodeJS 💻
+
+ ##
 
 <div align="center">
   <a href="https://github.com/DevInBuilding">
@@ -17,8 +19,6 @@
   <img align="center" alt="lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
-  ##
  
 <div>
   <a href="https://www.linkedin.com/in/lucasbarrosprofessional/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

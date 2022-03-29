@@ -1,7 +1,7 @@
 ### 😃 Hello there! I'm Lucas and welcome to my GitHub profile.
 
 - I'm an undergraduate student in Information Systems 🎓
-- I currently study JavaScript e NodeJS 💻
+- I currently study JavaScript e C# 💻
 
  ##
 

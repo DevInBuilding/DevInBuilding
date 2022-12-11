@@ -3,11 +3,10 @@
 - I'm an undergraduate student in Information Systems 🎓
 - I currently study C# and JavaScript 💻
 
-# QR Code for my Linkedin Profile
-<div align="justify">
+### QR Code for my Linkedin Profile
+<div align="center">
   <img height="150" width="150" src="https://user-images.githubusercontent.com/72031181/206931990-c8c62efe-4e6a-464a-a381-caf19dcfb045.png" alt="qrcode-linkedin-lucas-barros"/>
 </div>
- ##
 
 <div align="center">
   <a href="https://github.com/DevInBuilding">
